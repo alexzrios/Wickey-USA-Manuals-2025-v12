@@ -1,0 +1,59 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\alexz\Documents\GitHub\Wickey-USA-Manuals-2025-v12\USA F21 - BB map\Document fonts\Arial Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:750984
+FileModTime:1742313788
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rubik-Light
+FamilyName:Rubik
+StyleName:Light
+FullName:Rubik Light
+MenuName:Rubik Light
+FamilyPrefix:Rubik
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\alexz\Documents\GitHub\Wickey-USA-Manuals-2025-v12\USA F21 - BB map\Document fonts\Rubik-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:356080
+FileModTime:1742313788
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Rubik Light
+NameArray:0,Win,16,Rubik
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\alexz\Documents\GitHub\Wickey-USA-Manuals-2025-v12\USA F21 - BB map\Document fonts\desktop.ini
+FileModTime:1742313788
+%EndFont
+

@@ -11,13 +11,13 @@ FullName:Arial Bold
 MenuName:Arial
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:D:\Wickey\2025\Milos - Indesign manual process - V11\Milos - Indesign manual process\T (Surf)Swing map\Document fonts\Arial Bold.ttf
+OutlineFileName:C:\Users\micic\Desktop\Wickey-USA-Manuals-2025-v12-main\T (Surf)Swing map\Document fonts\Arial Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:750984
-FileModTime:1741250183
+FileModTime:1742461145
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -33,15 +33,16 @@ FamilyName:Rubik
 StyleName:Light
 FullName:Rubik Light
 MenuName:Rubik Light
+FamilyPrefix:Rubik
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Wickey\2025\Milos - Indesign manual process - V11\Milos - Indesign manual process\T (Surf)Swing map\Document fonts\Rubik-VariableFont_wght.ttf
+OutlineFileName:C:\Users\micic\Desktop\Wickey-USA-Manuals-2025-v12-main\T (Surf)Swing map\Document fonts\Rubik-VariableFont_wght.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
 VariableFontType:TrueTypeVariableFont
 FileLength:356080
-FileModTime:1741250183
+FileModTime:1742461145
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -52,7 +53,7 @@ NameArray:0,Win,16,Rubik
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:D:\Wickey\2025\Milos - Indesign manual process - V11\Milos - Indesign manual process\T (Surf)Swing map\Document fonts\desktop.ini
-FileModTime:1742303889
+OutlineFileName:C:\Users\micic\Desktop\Wickey-USA-Manuals-2025-v12-main\T (Surf)Swing map\Document fonts\desktop.ini
+FileModTime:1742461145
 %EndFont
 

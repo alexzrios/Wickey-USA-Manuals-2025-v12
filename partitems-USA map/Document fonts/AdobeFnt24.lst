@@ -11,13 +11,13 @@ FullName:Arial Bold
 MenuName:Arial
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\micic\Desktop\Wickey-USA-Manuals-2025-v12-main\partitems-USA map\Document fonts\Arial Bold.ttf
+OutlineFileName:D:\Wickey\2025\Wickey-USA-Manuals-2025-v12\partitems-USA map\Document fonts\Arial Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:750984
-FileModTime:1742461184
+FileModTime:1742479950
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -35,13 +35,13 @@ FullName:Arial
 MenuName:Arial
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\micic\Desktop\Wickey-USA-Manuals-2025-v12-main\partitems-USA map\Document fonts\Arial.ttf
+OutlineFileName:D:\Wickey\2025\Wickey-USA-Manuals-2025-v12\partitems-USA map\Document fonts\Arial.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:773236
-FileModTime:1742461185
+FileModTime:1742479950
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -52,7 +52,7 @@ NameArray:0,Win,1,Arial
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:C:\Users\micic\Desktop\Wickey-USA-Manuals-2025-v12-main\partitems-USA map\Document fonts\desktop.ini
-FileModTime:1742461185
+OutlineFileName:D:\Wickey\2025\Wickey-USA-Manuals-2025-v12\partitems-USA map\Document fonts\desktop.ini
+FileModTime:1742479950
 %EndFont
 
